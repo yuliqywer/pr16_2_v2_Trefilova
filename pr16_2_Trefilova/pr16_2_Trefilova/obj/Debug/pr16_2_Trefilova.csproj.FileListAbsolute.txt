@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\bin\Debug\pr16_2_Trefilova.exe.config
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\bin\Debug\pr16_2_Trefilova.exe
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\bin\Debug\pr16_2_Trefilova.pdb
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\obj\Debug\pr16_2_Trefilova.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\obj\Debug\pr16_2_Trefilova_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\obj\Debug\pr16_2_Trefilova_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\obj\Debug\pr16_2_Trefilova.g.resources
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\obj\Debug\pr16_2_Trefilova.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\obj\Debug\pr16_2_Trefilova.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\obj\Debug\pr16_2_Trefilova.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\obj\Debug\pr16_2_Trefilova.exe
+C:\Users\Пользователь\Desktop\pr16_2_Trefilova\pr16_2_Trefilova\obj\Debug\pr16_2_Trefilova.pdb
